@@ -86,7 +86,7 @@
     }
 }
 
-.card_main:active {
+/* .card_main:active {
     animation: animate 5s ease-in-out;
 }
 
@@ -97,7 +97,7 @@
     to {
         transform: rotate(359deg);
     }
-}
+} */
 
 .img_div {
     top: -70px;
